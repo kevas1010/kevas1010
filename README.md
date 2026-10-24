@@ -12,6 +12,19 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[EDGAR Equity Valuation](https://github.com/kevas1010/edgar-valuation)** | Pulls 10-K financials from the SEC EDGAR XBRL API into a formula-driven Excel DCF with WACC / terminal-growth sensitivity tables; OLS beta vs. S&P 500 and comps benchmarking. | Python · Excel · OLS |
+| **[NBA Stats Agent](https://github.com/kevas1010/nba-stats-agent)** | Chat assistant that answers basketball questions by querying a stats warehouse and searching the NBA rulebook, with measured accuracy, latency, and cost. | Python · dbt · DuckDB/Snowflake · MCP |
+| **[ProcureShield](https://github.com/kevas1010/ETHDenver2026)** — *ETHDenver 2026* | Confidential group-purchasing dApp: 8 DAML smart contracts on the Canton Network that keep each buyer's price limits hidden from competitors and suppliers. | DAML · Canton · TypeScript |
+| **[Sapien](https://github.com/kevas1010/Sapien-Nutrition-App)** | Meal-planning app that tracks fridge inventory from receipts (Gmail OAuth → Pub/Sub → Cloud Vision OCR, LLM fallback) and ranks recipes by what's on hand. | React · TypeScript · MongoDB · GCP |
+| **EMG Fatigue Detector** | SciPy pipeline with bandpass/notch filtering and Welch spectral estimation; ridge regression predicts remaining reps with leave-one-subject-out validation. | Python · SciPy · scikit-learn |
+| **[Custom PCB Watch](https://github.com/kevas1010/custompcbwatch)** — *with [@AryanMP07](https://github.com/AryanMP07)* | Round ESP32 smartwatch PCB in KiCad — 15+ component schematic, SPI display, LiPo charging, sensors; milled and printed in-house on the Voltera V-One. | KiCad · ESP32 · Hardware |
+
+---
+
 ### 🎓 Education
 
 **Purdue University — Elmore Family School of Electrical & Computer Engineering** · West Lafayette, IN<br>
@@ -64,19 +77,6 @@ B.S. Computer Engineering, Minor in Finance · *Aug 2025 – May 2028*
 
 </td></tr>
 </table>
-
----
-
-### 🚀 Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[EDGAR Equity Valuation](https://github.com/kevas1010/edgar-valuation)** | Pulls 10-K financials from the SEC EDGAR XBRL API into a formula-driven Excel DCF with WACC / terminal-growth sensitivity tables; OLS beta vs. S&P 500 and comps benchmarking. | Python · Excel · OLS |
-| **[NBA Stats Agent](https://github.com/kevas1010/nba-stats-agent)** | Chat assistant that answers basketball questions by querying a stats warehouse and searching the NBA rulebook, with measured accuracy, latency, and cost. | Python · dbt · DuckDB/Snowflake · MCP |
-| **[ProcureShield](https://github.com/kevas1010/ETHDenver2026)** — *ETHDenver 2026* | Confidential group-purchasing dApp: 8 DAML smart contracts on the Canton Network that keep each buyer's price limits hidden from competitors and suppliers. | DAML · Canton · TypeScript |
-| **[Sapien](https://github.com/kevas1010/Sapien-Nutrition-App)** | Meal-planning app that tracks fridge inventory from receipts (Gmail OAuth → Pub/Sub → Cloud Vision OCR, LLM fallback) and ranks recipes by what's on hand. | React · TypeScript · MongoDB · GCP |
-| **EMG Fatigue Detector** | SciPy pipeline with bandpass/notch filtering and Welch spectral estimation; ridge regression predicts remaining reps with leave-one-subject-out validation. | Python · SciPy · scikit-learn |
-| **Custom PCB Watch** | Round ESP32 smartwatch PCB in KiCad — 15+ component schematic, SPI display, LiPo charging, sensors; milled and printed in-house on the Voltera V-One. | KiCad · ESP32 · Hardware |
 
 ---
 
