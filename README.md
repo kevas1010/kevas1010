@@ -14,7 +14,7 @@
 
 ### 🎓 Education
 
-**Purdue University — Elmore Family School of Electrical & Computer Engineering** · West Lafayette, IN
+**Purdue University — Elmore Family School of Electrical & Computer Engineering** · West Lafayette, IN<br>
 B.S. Computer Engineering, Minor in Finance · *Aug 2025 – May 2028*
 
 <sub>Coursework: Data Structures · Data Science in Python · Dynamic C Programming · Electrical Engineering Fundamentals · Intro to Semiconductors · Discrete Math · Electricity & Magnetism · Ordinary Differential Equations · Financial Management</sub>
@@ -26,7 +26,7 @@ B.S. Computer Engineering, Minor in Finance · *Aug 2025 – May 2028*
 <table>
 <tr><td>
 
-**Software Engineering Intern** — EZMedTech.ai · Atlanta, GA (Hybrid)
+**Software Engineering Intern** — EZMedTech.ai · Atlanta, GA (Hybrid)<br>
 <sub>May 2026 – Jul 2026</sub>
 
 - Built a **FastAPI + PostgreSQL** backend that ingests clinic call transcripts and classifies patient intent (SQLAlchemy, Pydantic, JSONB).
@@ -36,7 +36,7 @@ B.S. Computer Engineering, Minor in Finance · *Aug 2025 – May 2028*
 </td></tr>
 <tr><td>
 
-**Design Mentor** — Bechtel Innovation Design Center, Purdue · West Lafayette, IN
+**Design Mentor** — Bechtel Innovation Design Center, Purdue · West Lafayette, IN<br>
 <sub>Aug 2026 – Present</sub>
 
 - Help student teams with schematic capture and board layout in **KiCad**, verifying footprints against datasheets before fabrication.
@@ -46,7 +46,7 @@ B.S. Computer Engineering, Minor in Finance · *Aug 2025 – May 2028*
 </td></tr>
 <tr><td>
 
-**Investment Relations & Analysis Intern** — Lionchase Private Equity · Washington, DC (Remote)
+**Investment Relations & Analysis Intern** — Lionchase Private Equity · Washington, DC (Remote)<br>
 <sub>Jun 2024 – Aug 2024</sub>
 
 - Built Excel due-diligence models and visualizations evaluating **4 investment targets** across agriculture, healthcare, and real estate.
@@ -56,7 +56,7 @@ B.S. Computer Engineering, Minor in Finance · *Aug 2025 – May 2028*
 </td></tr>
 <tr><td>
 
-**IT / Business Development Intern** — The IT Resources + SKTAX Associates · Schaumburg, IL
+**IT / Business Development Intern** — The IT Resources + SKTAX Associates · Schaumburg, IL<br>
 <sub>May 2023 – Aug 2023</sub>
 
 - Ran Cat5e **PoE** cabling for an IP camera system, configured the switch and LAN, and set up the NVR server.
